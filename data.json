@@ -10,7 +10,14 @@
     "url": "https://www.1337x.to/user/{}/",
     "urlMain": "https://www.1337x.to/",
     "username_claimed": "FitGirl"
-  },
+  }‚
+  "Instagram": {
+  "errorType": "status_code",
+  "url": "https://www.instagram.com/{}/",
+  "urlParam": "https://www.instagram.com/{}?igsh={}",
+  "urlMain": "https://www.instagram.com/",
+  "username_claimed": "instagram"
+  }‚
   "2Dimensions": {
     "errorType": "status_code",
     "url": "https://2Dimensions.com/a/{}",
