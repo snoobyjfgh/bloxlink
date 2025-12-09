@@ -17,3 +17,4 @@ Weblate
 YandexMusic
 opennet
 svidbook
+Instagram
